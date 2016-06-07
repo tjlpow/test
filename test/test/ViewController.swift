@@ -17,6 +17,8 @@ class ViewController: UIViewController {
 
     
     let button = 1
+    let button = 2
+    
     
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
